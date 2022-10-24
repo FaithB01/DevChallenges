@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+@media screen and (max-width:600px) {
+    .item1 {
+        position: absolute;
+        /* left: 4px; */
+        top: 109px;
+        bottom: 65.29%;
+        height: 220.35px;
+        width: 286.63px;
+    }
+    .item2 {
+        position: absolute;
+        margin-top: 407px;
+        /* margin-right: 10%; */
+        /* top: 4070px; */
+        /* left: 4px; */
+        /* bottom: 65.29%; */
+    }
+    .info {
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 25px;
+    }
+    .statement {
+        font-size: 12px;
+        line-height: 21px;
+    }
+    .btn {
+        width: 216px;
+        height: 68px;
+        color: white;
+        background: black;
+        padding: 30px;
+        left: 24px;
+        top: 726px;
+    }
+    /* .created {
+        width: 287px;
+        height: 17px;
+        top: 100px;
+        font-size: 14px;
+        line-height: 17px;
+        color: #BDBDBD;
+    } */
+    /* .image {
+        height: 220.35px;
+        width: 286.63px;
+    } */
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.head {
+    position: absolute;
+    width: 133px;
+    height: 25px;
+    left: 77px;
+    top: 10px;
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 25px;
+    /* letter-spacing: -0.08em; */
+}
+
+
+/* Scarecrow */
+
+.item1 {
+    position: absolute;
+    left: 5.35%;
+    right: 57.21%;
+    top: 24.54%;
+    bottom: 34.03%;
+}
+
+.item2 {
+    position: absolute;
+    right: 5.35%;
+    left: 57.21%;
+    top: 24.54%;
+    bottom: 34.03%;
+}
+
+.info {
+    font-size: 44px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    line-height: 75px;
+}
+
+.statement {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: -0.035em;
+    color: #4F4F4F;
+}
+
+.btn {
+    width: 216px;
+    height: 68px;
+    color: white;
+    background: black;
+}
+
+.image {
+    width: 539.22px;
+    height: 414.25px;
+}
+
+
+/* created by username - devChallenges.io */
+
+.created {
+    position: absolute;
+    width: 287px;
+    height: 17px;
+    left: 577px;
+    top: 600px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 17px;
+    /* identical to box height */
+    text-align: center;
+    color: #BDBDBD;
+}
