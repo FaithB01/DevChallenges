@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://dev-challenges-aapj.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://dev-challenges-aapj.vercel.app/}">
+    <a href="https://github.com/FaithB01/DevChallenges/tree/master/RESPONSIVE%20WEB%20DEVELOPER/404-not-found">
       Solution
     </a>
     <span> | </span>
